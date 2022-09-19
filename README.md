@@ -1,1 +1,1 @@
-Various PowerShell scripts written to automate tedious tasks.
+Various PowerShell scripts written to automate tasks.
